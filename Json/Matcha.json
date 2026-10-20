@@ -1,1 +1,8 @@
-
+{
+    "spec": 1,
+    "name": "Matcha Style",
+    "previewText": "Matcha Style",
+    "main": {
+        "MatchaStyle": "https://raw.githubusercontent.com/Rizky088/MyFont/6473c779edf8c41e0b56bd2a541ca0119e6d6fbb/Font/Matcha%20Style.ttf"
+    }
+}
